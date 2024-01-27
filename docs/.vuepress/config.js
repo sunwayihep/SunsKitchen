@@ -10,7 +10,7 @@ module.exports = {
   title: "Sun's Kitchen",
   description: "Live Long and Prosper",
   dest: "public",
-  base: "/sunskitchen/",
+  base: "/SunsKitchen/",
   head: [
     [
       "link",
